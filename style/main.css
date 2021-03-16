@@ -1,0 +1,48 @@
+body{
+    position:relative;
+	min-height: 100%;
+    margin: auto;
+    background-color: #2C2F33;
+    color: #FFFFFF;
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+    font-size: 100%;
+}
+
+header{
+    display: flex;
+    height: 10%;
+    background-color: #23272A;
+    font-size: 150%;
+    position: sticky;
+    top: 0;
+    flex-direction: column;
+}
+
+.header_row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header_row > *{
+    margin: 1% 2% 1% 2%;
+}
+
+a{
+    color: #9932CC;
+    text-decoration: none;
+}
+a:hover {
+    color: #FFD700;
+}
+
+.content{
+    margin: auto;
+    width: 75%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.sub_content{
+    margin-left: 5%;
+}
