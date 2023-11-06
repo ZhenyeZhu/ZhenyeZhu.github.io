@@ -3,11 +3,12 @@ import ProfilePhoto from "../images/ProfilePhoto.png";
 import { FcContacts, FcBriefcase, FcIdea, FcRules } from "react-icons/fc";
 
 import { Link } from "react-router-dom";
+import { AiFillGithub, AiFillLinkedin } from "react-icons/ai";
 
 function Navbar() {
   return (
-    <div className="w-48 bg-sky-100 shadow-lg flex flex-col">
-      <div className="basis-1/4 flex flex-col place-content-center px-8">
+    <div className="w-48 bg-sky-100 shadow-lg flex flex-col overflow-auto">
+      <div className="basis-1/4 flex flex-col place-content-center px-8 mt-2 mb-4">
         <img
           src={ProfilePhoto}
           className="rounded-full self-center"
@@ -40,6 +41,20 @@ function Navbar() {
       >
         <FcIdea className="w-7 h-7 self-center mr-2" /> Projects
       </Link>
+
+      <div className="mt-auto w-full flex self-center justify-center gap-3 mb-4">
+        <a
+          href="https://www.linkedin.com/in/zhenye-zhu-a1b5481a3/"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <AiFillLinkedin size={30} />
+        </a>
+
+        <a href="https://github.com/ZhenyeZhu" target="_blank" rel="noreferrer">
+          <AiFillGithub size={30} />
+        </a>
+      </div>
     </div>
   );
 }
