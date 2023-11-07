@@ -5,7 +5,7 @@ function Experience() {
     <div className="bg-gray-50 h-screen w-screen flex justify-items-center">
       <Navbar />
       <h1 className="text-3xl grow font-bold underline text-center text-black self-center">
-        My Experience
+        My Experience (Under Construction)
       </h1>
     </div>
   );
