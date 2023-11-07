@@ -32,7 +32,7 @@ function Resume() {
           />
         </Document>
         <div className="my-auto text-xl lg:hidden">
-          Expand horizontally to Preview
+          Expand Horizontally to Preview
         </div>
         <a
           href={resume}
