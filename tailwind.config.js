@@ -11,5 +11,9 @@ module.exports = withMT({
       },
     },
   },
-  plugins: ["prettier-plugin-tailwindcss", require("tailwind-scrollbar-hide")],
+  plugins: [
+    "prettier-plugin-tailwindcss",
+    require("tailwind-scrollbar-hide"),
+    require("@tailwindcss/line-clamp"),
+  ],
 });

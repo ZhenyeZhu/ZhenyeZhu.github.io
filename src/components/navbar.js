@@ -3,7 +3,6 @@ import ProfilePhoto from "../images/ProfilePhoto.png";
 import { FcContacts, FcBriefcase, FcIdea, FcRules } from "react-icons/fc";
 
 import { Link } from "react-router-dom";
-import { AiFillGithub, AiFillLinkedin } from "react-icons/ai";
 import { IconButton } from "@material-tailwind/react";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
 
