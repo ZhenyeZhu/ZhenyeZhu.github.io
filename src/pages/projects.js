@@ -14,7 +14,7 @@ function Projects() {
       <Navbar />
       <div className="flex flex-1 flex-col gap-4 p-6 overflow-auto scrollbar-hide">
         <h1 className="text-3xl h-fit font-bold text-center text-black ">
-          My Project:
+          My Projects:
         </h1>
         <div className="flex flex-wrap gap-6 place-content-center">
           <ProjectCard

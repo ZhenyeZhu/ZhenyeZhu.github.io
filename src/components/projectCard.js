@@ -12,7 +12,7 @@ function ProjectCard({ img, title, summary, skills, link }) {
     <Card className="mt-6 w-96 h-fit">
       <CardHeader
         color="blue-gray"
-        className="relative h-56 flex place-content-center place-items-center bg-gray-100"
+        className="relative h-56 flex place-content-center place-items-center bg-white"
       >
         <img src={img} alt="Food ResQ" className="h-fit w-fit" />
       </CardHeader>
