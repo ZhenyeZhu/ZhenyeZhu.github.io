@@ -12,7 +12,7 @@ function Projects() {
   return (
     <div className="bg-gray-50 h-screen w-screen flex justify-items-center">
       <Navbar />
-      <div className="flex flex-1 flex-col gap-4 p-6 overflow-auto scrollbar-hide">
+      <div className="flex flex-1 flex-col gap-8 p-8 overflow-auto scrollbar-hide">
         <h1 className="text-3xl h-fit font-bold text-center text-black ">
           My Projects:
         </h1>
