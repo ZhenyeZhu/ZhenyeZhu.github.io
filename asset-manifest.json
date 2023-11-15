@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.2791f1c2.css",
-    "main.js": "/static/js/main.5bc9172f.js",
+    "main.css": "/static/css/main.97f09ac8.css",
+    "main.js": "/static/js/main.0bd47071.js",
     "static/js/787.9440dc68.chunk.js": "/static/js/787.9440dc68.chunk.js",
     "static/media/me.jpg": "/static/media/me.0f89e0ae3b3ca10057ed.jpg",
     "static/media/ProfilePhoto.png": "/static/media/ProfilePhoto.36da9f7e7aa91efe3b45.png",
     "static/media/Resume.pdf": "/static/media/Resume.ca39b369d9ea235a525c.pdf",
     "static/media/FoodResQ.png": "/static/media/FoodResQ.1b0ce50dcc12e99fb195.png",
     "static/media/SmartHomeHub.png": "/static/media/SmartHomeHub.2ee00b0a0d1d4ba10e3a.png",
+    "static/media/uoft.jpg": "/static/media/uoft.efdf005d107f83ebf321.jpg",
     "static/media/UnixSimulator.jpg": "/static/media/UnixSimulator.1c67e8e344dfac3719e1.jpg",
     "static/media/EntreE.png": "/static/media/EntreE.91dae6f2b66743179621.png",
     "index.html": "/index.html",
-    "main.2791f1c2.css.map": "/static/css/main.2791f1c2.css.map",
-    "main.5bc9172f.js.map": "/static/js/main.5bc9172f.js.map",
+    "main.97f09ac8.css.map": "/static/css/main.97f09ac8.css.map",
+    "main.0bd47071.js.map": "/static/js/main.0bd47071.js.map",
     "787.9440dc68.chunk.js.map": "/static/js/787.9440dc68.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2791f1c2.css",
-    "static/js/main.5bc9172f.js"
+    "static/css/main.97f09ac8.css",
+    "static/js/main.0bd47071.js"
   ]
 }
